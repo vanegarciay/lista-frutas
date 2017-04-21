@@ -5,6 +5,7 @@ Ejercicio evaluado lección 13 para Laboratoria, es una lista para una frutería
 v.1.0.
 - **HTML:** títulos, parrafos, listas, imagen, input, botón.
 - **Bonus:** Javacript "Hola Mundo".
+- **Bonus:** Archivo ignorado (gitignore).
 
 ## AUTOR
 *Vanessa Garcia Yara*
